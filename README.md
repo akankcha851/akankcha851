@@ -14,61 +14,9 @@
   <img src="https://img.shields.io/badge/CGPA-8.38-success?style=for-the-badge" />
 </p>
 
----
-
-## 🚀 About Me
-
-I'm a **B.Tech Information Technology student at Indira Gandhi Delhi Technical University for Women (IGDTUW)** with a strong interest in **Generative AI, Machine Learning, Computer Vision, Web Development, and Data Science**.
-
-* 🎓 B.Tech in Information Technology — **IGDTUW**
-* 📊 Current CGPA: **8.38**
-* 🤖 Currently exploring **Computer Vision & Deep Learning**
-* 🧠 Interested in **Generative AI, Machine Learning & Data Science**
-* 💻 Strengthening my **C++ and DSA** skills
-* 🌐 Building practical software and AI/ML projects
-* 🏆 Hackathon & competition participant
 
 ---
 
-## 🧠 What I'm Currently Learning
-
-<details>
-<summary>🔍 Computer Vision & Deep Learning</summary>
-
-* Digital Image Processing
-* Image Enhancement
-* Image Filtering
-* Histogram Techniques
-* Feature Extraction
-* CNN Architectures
-* Python-based Computer Vision workflows
-
-</details>
-
-<details>
-<summary>🤖 Generative AI</summary>
-
-* Transformers
-* GANs
-* VAEs
-* Diffusion Models
-* Prompt Engineering
-* NLP workflows
-
-</details>
-
-<details>
-<summary>💻 Programming & CS Fundamentals</summary>
-
-* C++
-* Data Structures & Algorithms
-* Object-Oriented Programming
-* DBMS
-* MySQL
-
-</details>
-
----
 
 # 🛠️ Tech Stack
 
@@ -109,115 +57,18 @@ I'm a **B.Tech Information Technology student at Indira Gandhi Delhi Technical U
 
 ---
 
-# 🚀 Featured Projects
-
-## ⚡ CacheFlow — Interactive LRU Cache Visualizer
-
-**C++17 • Crow • React • Vite • Docker**
-
-An interactive visualization of an **LRU Cache** using a hash map and doubly linked list.
-
-### ✨ Highlights
-
-* ⚡ Implemented **O(1) LRU cache operations**
-* 🔗 Hash map + doubly linked list implementation
-* 🌐 Built a **Crow REST API**
-* 📊 React dashboard for visualizing cache state
-* 📈 Visualizes hits, misses and LRU/MRU ordering
-* 🐳 Dockerized backend and frontend
-* 🚀 Deployed as a live web application
-
----
-
-## 📚 Book Recommender System
-
-**Python • Flask • Pandas • NumPy • Scikit-learn**
-
-A machine-learning based recommendation system using **item-based collaborative filtering**.
-
-### ✨ Highlights
-
-* 📖 Personalized book recommendations
-* 👥 User-item interaction matrix
-* 📐 Cosine similarity for recommendations
-* 🧹 Data preprocessing
-* 📊 Exploratory Data Analysis
-* 🌐 Flask-based web application
-
----
-
-## 📄 AI Research Paper Summarizer
-
-**Python • Streamlit • Transformers • Hugging Face • PyMuPDF**
-
-An AI-powered application that processes research papers and generates concise summaries.
-
-### ✨ Highlights
-
-* 🤖 NLP-based summarization
-* 📄 Automatic PDF text extraction
-* 🧠 Hugging Face transformer models
-* 🔎 Extracts meaningful information from research papers
-* 🌐 Interactive Streamlit interface
-* ⚡ Real-time document processing
-
----
-
-# 💼 Experience
-
-### 🔬 Computer Vision & Deep Learning
-
-**IGDTUW ANVESHAN FOUNDATION**
-`Jun 2026 – Present`
-
-* Learning fundamentals of Digital Image Processing and Computer Vision
-* Exploring image enhancement, filtering and histogram techniques
-* Studying feature extraction methods
-* Exploring CNN architectures and their applications
-* Building proficiency in Python-based Computer Vision workflows
-
-### 🤖 GenAI & Prompt Engineering Intern
-
-**IGDTUW & Sansoft**
-`Jun 2025 – Jul 2025`
-
-* Explored Generative AI concepts including Transformers, GANs, VAEs and Diffusion Models
-* Built Python-based mini projects involving text generation
-* Worked on prompt engineering
-* Gained practical experience with GenAI workflows
-
----
-
-# 🏆 Achievements
-
-🏅 **The Big Code by Google India**
-Shortlisted in the Qualifier Round among **15,000+ students**
-
-🏆 **Startup Pitch — SWE, IGDTUW**
-Finalist under the theme **"AI & Automation"**
-
-🚀 **WIEgnite 3.0**
-Advanced to the Development Round among **500+ participants**
-
-🌟 **MY Bharat**
-Participated and advanced to the **third round**
-
----
 
 
-# 🎯 2026 Goals
 
-```text
-☑ Strengthen C++ & DSA
-☑ Build practical AI/ML projects
-☑ Explore Computer Vision & Deep Learning
-☑ Improve Full-Stack Development
-☐ Contribute to Open Source
-☐ Build more production-ready projects
-☐ Participate in more hackathons
-```
 
----
+
+
+
+
+
+
+
+
 
 
 
