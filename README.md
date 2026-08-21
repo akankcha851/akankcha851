@@ -23,42 +23,94 @@
 ### 👨‍💻 Languages
 
 <p>
-<img src="https://skillicons.dev/icons?i=cpp,python,r" />
+<a href="https://isocpp.org/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=cpp" />
+</a>
+
+<a href="https://www.python.org/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=python" />
+</a>
+
+<a href="https://www.r-project.org/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=r" />
+</a>
 </p>
 
 ### 🤖 AI / Data Science
 
 <p>
-<img src="https://skillicons.dev/icons?i=pytorch" />
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" />
+<a href="https://pytorch.org/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=pytorch" />
+</a>
+
+<a href="https://numpy.org/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=numpy" />
+</a>
+
+<a href="https://pandas.pydata.org/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=pandas" />
+</a>
+
+<a href="https://matplotlib.org/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=matplotlib" />
+</a>
+
+<a href="https://huggingface.co/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=huggingface" />
+</a>
 </p>
 
 ### 🌐 Development
 
 <p>
-<img src="https://skillicons.dev/icons?i=react,vite,docker,flask" />
-<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" />
+<a href="https://react.dev/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=react" />
+</a>
+
+<a href="https://vite.dev/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=vite" />
+</a>
+
+<a href="https://www.docker.com/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=docker" />
+</a>
+
+<a href="https://flask.palletsprojects.com/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=flask" />
+</a>
+
+<a href="https://streamlit.io/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=streamlit" />
+</a>
 </p>
 
 ### 🔧 Tools
 
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,cmake" />
+<a href="https://git-scm.com/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=git" />
+</a>
+
+<a href="https://github.com/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=github" />
+</a>
+
+<a href="https://code.visualstudio.com/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=vscode" />
+</a>
+
+<a href="https://cmake.org/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=cmake" />
+</a>
 </p>
 
 ### 🗄️ Database
 
 <p>
-<img src="https://skillicons.dev/icons?i=mysql" />
+<a href="https://www.mysql.com/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=mysql" />
+</a>
 </p>
-
----
-
-
-
 
 
 
